@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "422a543b13adda57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2749cc48ead890b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "320c2ed846518852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee280ed58bcf6c36",
+    "type": "split",
+    "children": [
+      {
+        "id": "edbc957bb732a6b0",
+        "type": "tabs",
+        "dimension": 71.64444444444445,
+        "children": [
+          {
+            "id": "b114c5f6688de085",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "018a6bf45b1153c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b71c092686784d52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5c1e08c7befc317e",
+        "type": "tabs",
+        "dimension": 28.355555555555558,
+        "children": [
+          {
+            "id": "ec69e78fe9dda3f4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf67263cca4e653f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Z-Excalidraw/Drawing-2024-06-11-22.59.48.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.50390243530273
+  },
+  "right": {
+    "id": "74c6ebf8a26ccc08",
+    "type": "split",
+    "children": [
+      {
+        "id": "73fea19e07dfe091",
+        "type": "tabs",
+        "dimension": 82.20640569395019,
+        "children": [
+          {
+            "id": "f0a936be0c70fedc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "32de05417fee443a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1504d43a3fcd70db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "287d874cdece73be",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "91a2082773d2f93f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a34aeca13cfccec9",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9b89c7164b4ef64",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "53390a193f63b54b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b829384733c135d",
+        "type": "tabs",
+        "dimension": 17.79359430604982,
+        "children": [
+          {
+            "id": "a7f3326dae21f8a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "b114c5f6688de085",
+  "lastOpenFiles": [
+    "README.md",
+    "Z-Excalidraw/Drawing-2024-06-11-22.59.48.excalidraw.md",
+    "CS-test",
+    "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240605.md",
+    "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240520.md",
+    "CS-Linux/实操/ACME/Linux-ACME备忘录.md",
+    "CS-数据库/硕士毕业设计-语义化缓存",
+    "Z-Dairy/潮流周刊/Week-01-关于“潮流周刊”.md",
+    "Z-Excalidraw/Drawing-2024-05-28-20.55.24.excalidraw.md",
+    "CS-Linux/实操/实验室/Linux-Shell审计的简单搭建.md",
+    "Z-Dairy/潮流周刊",
+    "CS-Linux/实操/实验室/Linux-服务器重装备忘录.md",
+    "CS-Linux/实操/实验室/Disk.md",
+    "CS-折腾/Linux-Tmux操作备忘录.md",
+    "CS-Linux/工具/Linux-Tmux操作补充.md",
+    "Life-Misc/TTS-文本.md",
+    "CS-Linux/网络/Linux-nmap工具.md",
+    "CS-算法/栈和队列/单调栈/单调栈本身作为答案/Other.单调栈解决字典序问题.TODO.md",
+    "CS-算法/位运算/Other.从集合的角度看位运算.md",
+    "CS-算法/位运算/通过异或排除出集合/LC2401.最长优雅子数组.md",
+    "CS-算法/位运算/位运算题单.md",
+    "CS-算法/位运算/通过异或排除出集合",
+    "CS-算法/排序/Other.基数排序、计数排序和桶排序.md",
+    "Z-Excalidraw/Drawing-2024-05-17-11.45.51.excalidraw.md",
+    "Life-Misc/整合/BTC.encrypted",
+    "Life-Misc/整合/服务器资源整合.encrypted",
+    "CS-算法/双指针/不定长滑动窗口（同向双指针）/LC159.至多包含两个不同字符的最长子串.md",
+    "CS-算法/双指针/不定长滑动窗口（同向双指针）/LC209.长度最小的子数组.md",
+    "CS-算法/数学问题/乘法原理/LC828.统计子串中的唯一字符.md",
+    "CS-算法/双指针/定长滑动窗口/LC1100.长度为K的无重复字符子串.md",
+    "CS-Linux/实操/备忘录/Linux-Ollama部署备忘录.md",
+    "Task-任务/研究生课程/大数据课程/PostgreSQL.md",
+    "CS-后端/LLM开发",
+    "CS-前端/pages",
+    "CS-前端/journals",
+    "CS-前端/logseq/custom.css",
+    "Pasted image 20240309181817.png",
+    "Pasted image 20240309181802.png",
+    "Pasted image 20240309181719.png",
+    "Untitled.canvas"
+  ]
+}

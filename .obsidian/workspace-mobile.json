@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "422a543b13adda57",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa09911e076ea177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f89f84865d046a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Dairy/日记/日记-20230213.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "720994bc9ecce07b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "278d89cb4cb365b5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3c28dd43c7b14d41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "68c04734823f21ae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a12ced6c2edb6b38",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "da08828e2a66b80f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b7bef20f4b84ca9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a54b028cee6d02fd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Z-Dairy/日记/日记-20230213.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a35a57c7112dd5d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Z-Dairy/日记/日记-20230213.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b67a061032228e81",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Z-Dairy/日记/日记-20230213.md"
+          }
+        }
+      },
+      {
+        "id": "4226055232d40295",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "f3616ae1264cfd01",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6f89f84865d046a9",
+  "lastOpenFiles": [
+    "SC-任务/科研工具/Latex/LaTeX排版.md",
+    "Z-Dairy/KanBan/SDN + RL.md",
+    "Z-Dairy/日记/日记-20230218.md",
+    "CS-前端/HTML/3.HTML元数据.md",
+    "CS-前端/Vue2/MDN-Vue.md",
+    "CS-前端/HTML/1.HTML概念.md",
+    "Life-Misc/大型乘法表.md",
+    "Life-Misc/整合/邮箱资源整合.encrypted",
+    "Z-Dairy/周记/周记-2023-W08.md",
+    "SC-生物识别/后门攻击/AI安全-整体分类.md",
+    "Life-百科/农业/六大茶叶系列.md",
+    "Life-Misc/整合/chatGPT资源整合.encrypted",
+    "Z-Dairy/日记/日记-20230221.md",
+    "Z-Dairy/日记/日记-20230220.md",
+    "Life-Misc/整合/github资源整合.encrypted",
+    "CS-前端/JavaScript/js-es6-解构赋值.md",
+    "Life-Misc/整合/BTC.encrypted",
+    "CS-算法/栈和队列/单调栈/LC2289.使数组按非递减顺序排列.md",
+    "Z-Dairy/日记/日记-20230213.md",
+    "CS-基础/Linux/Linux-动态链接库和静态链接库.md",
+    "CS-基础/改善丑陋的代码/改善丑陋的代码-避免硬编码.md",
+    "CS-算法/双指针/Floyd判圈法/LC142.环形链表II(todo).md",
+    "CS-算法/栈和队列/栈/LC227.基本计算器II.md",
+    "CS-算法/题单.md",
+    "SC-生物识别/声纹识别/声纹识别模型总结.md",
+    "Z-Dairy/日记/日记-20230110.md",
+    "CS-前端/JavaScript/js-this的4种指向.md"
+  ]
+}

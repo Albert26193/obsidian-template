@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "422a543b13adda57",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f89f84865d046a9",
+        "type": "leaf",
+        "dimension": 48.15028901734104,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS记录/日记/2022-12-01.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "group": "e5ef11855aa2369c"
+      },
+      {
+        "id": "00c1a1d9388f64b1",
+        "type": "leaf",
+        "dimension": 51.84971098265896,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CS记录/日记/2022-12-01.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        },
+        "group": "e5ef11855aa2369c"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "720994bc9ecce07b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "278d89cb4cb365b5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "3c28dd43c7b14d41",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "68c04734823f21ae",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b7bef20f4b84ca9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a54b028cee6d02fd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CS记录/日记/2022-12-01.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a35a57c7112dd5d0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CS记录/日记/2022-12-01.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b67a061032228e81",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "CS记录/日记/2022-12-01.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6f89f84865d046a9",
+  "lastOpenFiles": [
+    "CS记录/日记/2022-12-01.md",
+    "Algorithm/排序/LC1051.高度检查器.md",
+    "Algorithm/排序/Other.计数排序和桶排序.md",
+    "Algorithm/排序/刷题日记20220906.md",
+    "Excalidraw/前缀和+数组+差分.excalidraw!.md",
+    "Excalidraw/从Obsidian到语雀.excalidraw.md",
+    "Misc/从Obsidian到语雀.md",
+    "Misc/arch_config_backup.md",
+    "Templates/Untitled.md",
+    "Templates/template.md"
+  ]
+}

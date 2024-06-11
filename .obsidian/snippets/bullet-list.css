@@ -1,0 +1,93 @@
+/* 来源：https://forum-zh.obsidian.md/t/topic/20151 */
+
+.workspace-leaf,
+.workspace-tab-header-container {
+    background: transparent !important;
+}
+
+.workspace-split.mod-root,
+.workspace-split.mod-root .view-content,
+.workspace-split.mod-root .view-header {
+    background: transparent !important;
+}
+
+.view-header-title-container:not(.mod-at-end):after {
+    background: transparent !important;
+}
+
+.theme-dark {
+    --opacity-translucency: 0.01 !important;
+}
+
+/* Control text color for both ul and ol, not including list symbol (only level 1) */
+
+.HyperMD-list-line.HyperMD-list-line-1.CodeMirror-line {
+    color: red !important;
+}
+
+/* Control text color for both ul and ol, not including list symbol (all levels) */
+
+.HyperMD-list-line {
+    color: var(--frost3) !important;
+}
+
+/* Unordered */
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-1 {
+    color: red !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-2 {
+    color: orange !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ul.cm-list-3 {
+    color: yellow !important;
+    font-weight: bold;
+    font-size: large;
+}
+
+.HyperMD-list-line.HyperMD-list-line-4 .cm-formatting-list-ul.cm-list-1 {
+    color: green !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-5 .cm-formatting-list-ul.cm-list-2 {
+    color: blue !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-6 .cm-formatting-list-ul.cm-list-3 {
+    color: purple !important;
+}
+
+/* Ordered */
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-1 {
+    color: red !important;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-2 {
+    color: orange !important;
+}
+
+.cm-formatting.cm-formatting-list.cm-formatting-list-ol.cm-list-3 {
+    color: yellow !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-4.CodeMirror-line
+    .cm-formatting-list-ol.cm-list-1 {
+    color: green !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-5.CodeMirror-line
+    .cm-formatting-list-ol.cm-list-2 {
+    color: blue !important;
+}
+
+.HyperMD-list-line.HyperMD-list-line-6.CodeMirror-line
+    .cm-formatting-list-ol.cm-list-3 {
+    color: purple !important;
+}

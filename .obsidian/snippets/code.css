@@ -1,0 +1,27 @@
+:root {
+	--color-monospace: khaki;
+}
+
+.markdown-source-view {
+	font-family: var(--font-monospace);
+}
+
+code, pre {
+	word-wrap: break-word;
+	white-space: pre;
+	overflow-x: auto;
+	font-size: 0.95em;
+	line-height: 1.5;
+}
+
+.markdown-preview-view code,
+.cm-s-obsidian .HyperMD-codeblock,
+.cm-s-obsidian span.cm-inline-code {
+	color: var(--color-monospace);
+	-webkit-font-smoothing: auto;
+	font-size: 0.95em;
+}
+
+.cm-s-obsidian .HyperMD-codeblock {
+	line-height: 1.5;
+}

@@ -1,0 +1,27 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "TODO-Files",
+      "path": "Z-Dataview/TODO-Files.md"
+    },
+    {
+      "basename": "Todo",
+      "path": "Z-Dataview/Todo.md"
+    },
+    {
+      "basename": "Simple-TODO",
+      "path": "Z-Dataview/Simple-TODO.md"
+    },
+    {
+      "basename": "HomePage",
+      "path": "Z-Dataview/HomePage.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "split"
+}

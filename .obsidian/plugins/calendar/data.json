@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "周记-gggg-[W]ww",
+  "weeklyNoteTemplate": "Z-Template/周记模板",
+  "weeklyNoteFolder": "Z-Dairy/周记",
+  "localeOverride": "system-default"
+}

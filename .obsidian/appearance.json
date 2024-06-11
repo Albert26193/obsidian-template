@@ -1,0 +1,20 @@
+{
+  "textFontFamily": "Times New Roman,Songti SC,LXGW WenKai",
+  "cssTheme": "AnuPpuccin",
+  "monospaceFontFamily": "Hack Nerd Font,Source Code Pro",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "translucency": false,
+  "interfaceFontFamily": "Songti SC,Times New Roman,LXGW WenKai,PingFang SC,LXGW Neo ZhiSong CHS",
+  "accentColor": "#74e0fb",
+  "enabledCssSnippets": [
+    "my-exporter",
+    "vim-static-caret",
+    "full-width",
+    "auto-fade-control",
+    "bullet-line",
+    "img"
+  ],
+  "nativeMenus": true,
+  "showViewHeader": true
+}
