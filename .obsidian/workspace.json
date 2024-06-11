@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2749cc48ead890b6",
+        "id": "9346de04c9d12481",
         "type": "tabs",
         "children": [
           {
-            "id": "320c2ed846518852",
+            "id": "4f6059a80a3d13de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Z-Dataview/HomePage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9b0611b83e37485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Dataview/Todo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806096209e6e3b23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z-Dataview/TODO-Files.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Excalidraw/Drawing-2024-06-11-22.59.48.excalidraw.md"
+                "file": "Z-Dataview/HomePage.md"
               }
             }
           }
@@ -121,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z-Dataview/HomePage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,6 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Z-Dataview/HomePage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -226,10 +254,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b114c5f6688de085",
+  "active": "4f6059a80a3d13de",
   "lastOpenFiles": [
-    "README.md",
+    "Z-Dataview/Todo.md",
+    "Z-Dataview/TODO-Files.md",
+    "Z-Dataview/Simple-TODO.md",
+    "Z-Dataview/HomePage.md",
     "Z-Excalidraw/Drawing-2024-06-11-22.59.48.excalidraw.md",
+    "README.md",
     "CS-test",
     "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240605.md",
     "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240520.md",
@@ -256,10 +288,6 @@
     "Life-Misc/整合/服务器资源整合.encrypted",
     "CS-算法/双指针/不定长滑动窗口（同向双指针）/LC159.至多包含两个不同字符的最长子串.md",
     "CS-算法/双指针/不定长滑动窗口（同向双指针）/LC209.长度最小的子数组.md",
-    "CS-算法/数学问题/乘法原理/LC828.统计子串中的唯一字符.md",
-    "CS-算法/双指针/定长滑动窗口/LC1100.长度为K的无重复字符子串.md",
-    "CS-Linux/实操/备忘录/Linux-Ollama部署备忘录.md",
-    "Task-任务/研究生课程/大数据课程/PostgreSQL.md",
     "CS-后端/LLM开发",
     "CS-前端/pages",
     "CS-前端/journals",

@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "TODO-Files",
-      "path": "Z-Dataview/TODO-Files.md"
+      "basename": "HomePage",
+      "path": "Z-Dataview/HomePage.md"
     },
     {
       "basename": "Todo",
       "path": "Z-Dataview/Todo.md"
     },
     {
-      "basename": "Simple-TODO",
-      "path": "Z-Dataview/Simple-TODO.md"
+      "basename": "TODO-Files",
+      "path": "Z-Dataview/TODO-Files.md"
     },
     {
-      "basename": "HomePage",
-      "path": "Z-Dataview/HomePage.md"
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
