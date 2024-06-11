@@ -5,7 +5,7 @@
   "promptDelete": false,
   "autoPairBrackets": true,
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "",
+  "attachmentFolderPath": "Z-Assets",
   "newFileLocation": "root",
   "showLineNumber": false,
   "strictLineBreaks": false,
