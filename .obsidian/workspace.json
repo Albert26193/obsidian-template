@@ -114,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS-Test/测试/test.md.md"
+                "file": "Z-Assets/Pasted image 20240611231334.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS-Test/测试/test.md.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7b829384733c135d",
@@ -226,7 +227,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS-Test/测试/test.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,14 +254,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "4f6059a80a3d13de",
+  "active": "b114c5f6688de085",
   "lastOpenFiles": [
-    "Z-Assets/Pasted image 20240611231921.png",
     "Z-Assets/Pasted image 20240611231837.png",
-    "Z-Assets",
+    "Z-Assets/Pasted image 20240611231921.png",
     "Z-Assets/Pasted image 20240611231334.png",
-    "Z-Dataview/HomePage.md",
     "CS-Test/测试/test.md.md",
+    "Z-Assets",
+    "Z-Dataview/HomePage.md",
     "CS-Test/测试",
     "CS-Test",
     "Z-Dataview/Todo.md",
