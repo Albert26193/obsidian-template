@@ -1,21 +1,23 @@
 ---
 author: Albert
-date created: 2023-03-06 16:24
-date: 2023-04-03 21:26
+date created: 2024-06-11
+date modified: 2025-06-24
 title: Todo
 ---
 
 # Todo
 
+- 该文件可以过滤出全局的 todo item
+
 ```dataviewjs
-const allFiles = dv.pages();
-const fileDates = allFiles.filter(el => el["date"] != undefined)
-                          .filter(el => el["date"] > '2022-12-12')
-                          .map(el => el["date"].slice(0, 10));
+const allFiles = dv.pages().map(el => el.file.frontmatter);
+const fileDates = allFiles.filter(el => el["date modified"] != undefined)
+                          .filter(el => el["date modified"] > '2022-12-12')
+                          .map(el => el["date modified"].slice(0, 10));
 
 const excludeDirs = [
   "Z-Template",
-  "Z-Dairy",
+  //"Z-Dairy",
   "Z-Excalidraw",
   // "CS-算法",
 ];
@@ -28,13 +30,13 @@ const filterCurrentDayFiles = (currentDate) => {
   const currentDayFiles = dv.pages("")
     .filter(f => !excludeDirs.some(dir => f.file.path.includes(dir)))
     .filter(f => !excludeNames.some(name => f.file.path.includes(name)))
-    .filter(p => p["date"] >= "1900-01-01")
-    .filter(p => p["date"].slice(0, 10) == currentDate)
+    .filter(p => p.file.frontmatter["date modified"] >= "1900-01-01")
+    .filter(p => p.file.frontmatter["date modified"].slice(0, 10) == currentDate)
     .filter(p => p.file.size > 120)
     .filter(p => p.file.tasks.some(task => !task.completed))
     .filter(p => p.file.tasks.text.length <= 30)
-    .sort(p => p["date"], 'desc');
-  
+    .sort(p => p.file.frontmatter["date modified"], 'desc');
+
   return currentDayFiles;
 };
 
@@ -55,7 +57,7 @@ const processDate = (endDate) => {
     const date = new Date(endTime.getTime() - (i * 1000 * 60 * 60 * 24));
     return `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
   });
-  
+
   const incompleteTasks = dates
     .filter(currentDate => fileDates.includes(currentDate))
     .map(currentDate => {

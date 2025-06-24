@@ -1,21 +1,24 @@
 ---
 author: Albert
-date created: 2023-11-09 19:14
 date: 2023-11-09 19:14
+date created: 2024-06-11
+date modified: 2025-06-24
 title: TODO-Files
 ---
 
 # TODO-Files
 
+- 该文件过滤出全局文件中，文件名包括 `todo` 的文件
+
 ```dataviewjs
 const today = new Date;
 const nowYears = today.getFullYear();
-const startTime = new Date('2022-12-08');
+const startTime = new Date('1899-12-01');
 const endTime = today;
 
 const allFiles = dv.pages();
 const fileDates = allFiles.filter(el => el["date"] != undefined)
-                          .filter(el => el["date"] > '2022-12-01')
+                          .filter(el => el["date"] > '1899-12-01')
                           .map(el => el["date"].slice(0, 10));
 
 const weekName = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];

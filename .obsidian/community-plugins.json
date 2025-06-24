@@ -7,7 +7,6 @@
   "obsidian-better-command-palette",
   "calendar",
   "omnisearch",
-  "obsidian-shellcommands",
   "obsidian-linter",
   "table-editor-obsidian",
   "markdown-table-editor",
@@ -22,9 +21,10 @@
   "obsidian-plugin-toc",
   "obsidian-style-settings",
   "editing-toolbar",
-  "codeblock-customizer",
-  "cm-editor-syntax-highlight-obsidian",
-  "shiki-highlighter",
-  "obsidian-tasks-plugin",
-  "obsidian-enhancing-mindmap"
+  "obsidian-markmind",
+  "pdf-plus",
+  "obsidian-weread-plugin",
+  "obsidian-day-and-night",
+  "collapsible-code-blocks",
+  "obsidian-tasks-plugin"
 ]

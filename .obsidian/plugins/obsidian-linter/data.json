@@ -25,7 +25,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "author: Albert\n"
+      "text-to-insert": "author: yourName\n"
     },
     "move-tags-to-yaml": {
       "enabled": true,
@@ -46,20 +46,25 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "date created",
-      "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "date",
-      "format": "YYYY-MM-DD"
+      "date-modified-key": "date modified",
+      "format": "YYYY-MM-DD",
+      "date-created-source-of-truth": "file system",
+      "date-modified-source-of-truth": "file system",
+      "convert-to-utc": false,
+      "update-on-file-contents-updated": "after 5 seconds"
     },
     "yaml-title": {
       "enabled": true,
-      "title-key": "title"
+      "title-key": "title",
+      "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
       "enabled": false,
       "preserve-existing-alias-section-style": true,
       "keep-alias-that-matches-the-filename": false,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
+      "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
       "enabled": false,
@@ -92,7 +97,8 @@
       "style": "asterisk"
     },
     "no-bare-urls": {
-      "enabled": false
+      "enabled": false,
+      "no-bare-uris": false
     },
     "ordered-list-style": {
       "enabled": false,
@@ -119,7 +125,8 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false
+      "enabled": false,
+      "line-break-indicator": "  "
     },
     "unordered-list-style": {
       "enabled": true,
@@ -213,7 +220,9 @@
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
-      "ignore-words": ""
+      "ignore-words": "",
+      "skip-words-with-multiple-capitals": false,
+      "extra-auto-correct-files": []
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -259,6 +268,9 @@
     "default-language-for-code-fences": {
       "enabled": false,
       "default-language": ""
+    },
+    "empty-line-around-horizontal-rules": {
+      "enabled": false
     }
   },
   "lintOnSave": true,
@@ -270,6 +282,7 @@
   "foldersToIgnore": [
     "Z-Template"
   ],
+  "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

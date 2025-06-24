@@ -1,27 +1,206 @@
 {
   "recentFiles": [
     {
-      "basename": "test.md",
-      "path": "CS-Test/测试/test.md.md"
-    },
-    {
       "basename": "HomePage",
       "path": "Z-Dataview/HomePage.md"
     },
     {
-      "basename": "Todo",
-      "path": "Z-Dataview/Todo.md"
+      "basename": "Test-01",
+      "path": "A-Test/测试01/Test-01.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "Z-Template/日记模板.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "TODO-Files",
       "path": "Z-Dataview/TODO-Files.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Pasted image 20250624122221",
+      "path": "Z-Assets/Pasted image 20250624122221.png"
+    },
+    {
+      "basename": "A-Test-Overview",
+      "path": "A-Test/A-Test-Overview.md"
+    },
+    {
+      "basename": "Test-02",
+      "path": "A-Test/测试02/Test-02.md"
+    },
+    {
+      "basename": "资源整合",
+      "path": "CS-找实习找工作/资源整合.md"
+    },
+    {
+      "basename": "CS-计算机网络-overview",
+      "path": "CS-计算机网络/CS-计算机网络-overview.md"
+    },
+    {
+      "basename": "计算机网络-TCP的前两次握手为何不能携带数据",
+      "path": "CS-计算机网络/传输层/TCP/握手系列/计算机网络-TCP的前两次握手为何不能携带数据.md"
+    },
+    {
+      "basename": "计算机网络-不合时宜的SYN.TODO",
+      "path": "CS-计算机网络/传输层/TCP/握手系列/计算机网络-不合时宜的SYN.TODO.md"
+    },
+    {
+      "basename": "后端-数据库分区分表",
+      "path": "CS-找实习找工作/他人面经/腾讯面经/后端-数据库分区分表.md"
+    },
+    {
+      "basename": "Other.单调栈的总结",
+      "path": "CS-算法/栈和队列/单调栈/Other.单调栈的总结.md"
+    },
+    {
+      "basename": "LC496.下一个更大元素I",
+      "path": "CS-算法/栈和队列/单调栈/下一个更大数字/LC496.下一个更大元素I.md"
+    },
+    {
+      "basename": "数据库-MySQL 源码编译",
+      "path": "CS-DB/源码系列/数据库-MySQL 源码编译.md"
+    },
+    {
+      "basename": "canvas-books-prompt",
+      "path": "Life-Books/canvas-books-prompt.md"
+    },
+    {
+      "basename": "Clippings-How do I foldcollapsehide sections of code in Visual Studio Code?",
+      "path": "Z-Clippings/Clippings-How do I foldcollapsehide sections of code in Visual Studio Code?.md"
+    },
+    {
+      "basename": "CS-基础-Overview",
+      "path": "CS-基础/CS-基础-Overview.md"
+    },
+    {
+      "basename": "CS-Cpp-C++基础",
+      "path": "CS-C++/00-basic/basic-C++/CS-Cpp-C++基础.md"
+    },
+    {
+      "basename": "Linux-调试bash",
+      "path": "CS-Linux/bash编程/Linux-调试bash.md"
+    },
+    {
+      "basename": "Misc-计算机书单",
+      "path": "CS-基础/Misc/Misc-计算机书单.md"
+    },
+    {
+      "basename": "BUG收录-关于服务器监控脚本的问题",
+      "path": "CS-基础/CS-BUG整理/BUG收录-关于服务器监控脚本的问题.md"
+    },
+    {
+      "basename": "Life-投资-2025三月份美股关税股灾复盘",
+      "path": "Life-投资/常识和策略/Life-投资-2025三月份美股关税股灾复盘.md"
+    },
+    {
+      "basename": "巴拉吉预言：技术、真相和构建未来的指南",
+      "path": "Life-Books/weread-note/巴拉吉预言：技术、真相和构建未来的指南/巴拉吉预言：技术、真相和构建未来的指南.md"
+    },
+    {
+      "basename": "周记-2025-W22",
+      "path": "Z-Dairy/周记/周记-2025-W22.md"
+    },
+    {
+      "basename": "日记-20250527",
+      "path": "Z-Dairy/日记/日记-20250527.md"
+    },
+    {
+      "basename": "Life-如何获取健康的睡眠",
+      "path": "Life-自我提升/健康/Life-如何获取健康的睡眠.md"
+    },
+    {
+      "basename": "Life-如何控制糖分的摄入",
+      "path": "Life-自我提升/健康/Life-如何控制糖分的摄入.md"
+    },
+    {
+      "basename": "Life-如何控制饮食摄入",
+      "path": "Life-自我提升/健康/Life-如何控制饮食摄入.md"
+    },
+    {
+      "basename": "Life-如何养成运动习惯",
+      "path": "Life-自我提升/健康/Life-如何养成运动习惯.md"
+    },
+    {
+      "basename": "obsidian-why-obsidian",
+      "path": "CS-折腾/Obsidian-记录/obsidian-why-obsidian.md"
+    },
+    {
+      "basename": "实习投递一览表",
+      "path": "CS-找实习找工作/实习投递一览表.md"
+    },
+    {
+      "basename": "Git-reset当中的soft、hard、mixed",
+      "path": "CS-基础/Git/Git-reset当中的soft、hard、mixed.md"
+    },
+    {
+      "basename": "经济学-复式记账的好处",
+      "path": "Life-百科/经济学/经济学-复式记账的好处.md"
+    },
+    {
+      "basename": "Git-stash的用途",
+      "path": "CS-基础/Git/Git-stash的用途.md"
+    },
+    {
+      "basename": "任务划分与测试驱动AI开发-徐昊 · AI时代的软件工程-极客时间 2",
+      "path": "Z-Clippings/任务划分与测试驱动AI开发-徐昊 · AI时代的软件工程-极客时间 2.md"
+    },
+    {
+      "basename": "To-Notion",
+      "path": "Z-Dataview/To-Notion.md"
+    },
+    {
+      "basename": "前端-Vite插件开发",
+      "path": "CS-前端/Vite/前端-Vite插件开发.md"
+    },
+    {
+      "basename": "毕设进度-20241205",
+      "path": "Task-任务/硕士毕业设计-语义化缓存/进度/毕设进度-20241205.md"
+    },
+    {
+      "basename": "前端-React-事件冒泡",
+      "path": "CS-前端/React/React基础/前端-React-事件冒泡.md"
+    },
+    {
+      "basename": "LC反转链表.TODO",
+      "path": "CS-算法/链表/LC反转链表.TODO.md"
+    },
+    {
+      "basename": "js-this的4种指向",
+      "path": "CS-前端/JavaScript/this相关/js-this的4种指向.md"
+    },
+    {
+      "basename": "CS-折腾-提示词收纳",
+      "path": "CS-折腾/AI/CS-折腾-提示词收纳.md"
+    },
+    {
+      "basename": "后端-从Oauth到Oauth2",
+      "path": "CS-后端/后端安全/后端-从Oauth到Oauth2.md"
+    },
+    {
+      "basename": "Clippings-Getting Started  Electron Forge",
+      "path": "Z-Clippings/Clippings-Getting Started  Electron Forge.md"
+    },
+    {
+      "basename": "Life-懒人投资组合",
+      "path": "Life-投资/Life-懒人投资组合.md"
+    },
+    {
+      "basename": "Life-美股美债",
+      "path": "Life-投资/Life-美股美债.md"
+    },
+    {
+      "basename": "Life-什么是债券-TODO",
+      "path": "Life-投资/Life-什么是债券-TODO.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "split"
 }

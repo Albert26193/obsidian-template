@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "/usr/local/bin/pandoc",
+  "pandoc": "/opt/homebrew/bin/pandoc",
   "pdflatex": null,
   "outputFolder": "/Users/albert/Documents",
   "extraArguments": "",

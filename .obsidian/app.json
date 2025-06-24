@@ -21,7 +21,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "showIndentGuide": true,
   "tabSize": 2,
   "readableLineLength": true,
@@ -29,6 +29,8 @@
   "rightToLeft": false,
   "focusNewTab": true,
   "propertiesInDocument": "visible",
-  "foldHeading": false,
-  "showInlineTitle": true
+  "foldHeading": true,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "autoPairMarkdown": true
 }

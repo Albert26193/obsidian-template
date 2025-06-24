@@ -4,46 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "9346de04c9d12481",
+        "id": "2d908f5c2a661d6e",
         "type": "tabs",
         "children": [
           {
-            "id": "4f6059a80a3d13de",
+            "id": "665a12c7ae7f1308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-Test/测试/test.md.md",
+                "file": "Z-Dataview/HomePage.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "HomePage"
             }
           },
           {
-            "id": "b9b0611b83e37485",
+            "id": "aa610d2f367e498c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z-Dataview/Todo.md",
+                "file": "A-Test/测试01/Test-01.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "806096209e6e3b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-Dataview/TODO-Files.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Test-01"
             }
           }
         ]
@@ -58,7 +67,7 @@
       {
         "id": "edbc957bb732a6b0",
         "type": "tabs",
-        "dimension": 71.64444444444445,
+        "dimension": 77.85160575858251,
         "children": [
           {
             "id": "b114c5f6688de085",
@@ -66,8 +75,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -76,13 +88,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -90,7 +104,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "f01e8304490bd548",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
             }
           }
         ]
@@ -98,14 +124,16 @@
       {
         "id": "5c1e08c7befc317e",
         "type": "tabs",
-        "dimension": 28.355555555555558,
+        "dimension": 22.1483942414175,
         "children": [
           {
             "id": "ec69e78fe9dda3f4",
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -114,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z-Assets/Pasted image 20240611231334.png"
-              }
+                "file": "Z-Dataview/HomePage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "HomePage 的大纲"
             }
           }
         ],
@@ -123,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 309.5
   },
   "right": {
     "id": "74c6ebf8a26ccc08",
@@ -132,30 +165,16 @@
       {
         "id": "73fea19e07dfe091",
         "type": "tabs",
-        "dimension": 82.20640569395019,
+        "dimension": 59.25925925925925,
         "children": [
           {
             "id": "f0a936be0c70fedc",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "32de05417fee443a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -165,8 +184,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": false
-              }
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -174,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -186,7 +211,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           },
           {
@@ -194,32 +221,28 @@
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
-              "state": {}
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
-            "id": "b9b89c7164b4ef64",
+            "id": "50a5373a68887628",
             "type": "leaf",
             "state": {
-              "type": "SC-custom-variables-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "53390a193f63b54b",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "7b829384733c135d",
         "type": "tabs",
-        "dimension": 17.79359430604982,
+        "dimension": 40.74074074074074,
         "children": [
           {
             "id": "a7f3326dae21f8a6",
@@ -229,15 +252,36 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "32de05417fee443a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z-Dataview/HomePage.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HomePage 的反向链接列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 462.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,55 +292,74 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-to-notion:Share to notion": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-day-and-night:Toggle Theme": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b114c5f6688de085",
+  "active": "665a12c7ae7f1308",
   "lastOpenFiles": [
-    "Z-Assets/Pasted image 20240611231837.png",
-    "Z-Assets/Pasted image 20240611231921.png",
-    "Z-Assets/Pasted image 20240611231334.png",
-    "CS-Test/测试/test.md.md",
-    "Z-Assets",
+    "Z-Dataview/TODO.md",
+    "A-Test/测试01/Test-01.md",
     "Z-Dataview/HomePage.md",
-    "CS-Test/测试",
-    "CS-Test",
-    "Z-Dataview/Todo.md",
-    "Z-Dataview/TODO-Files.md",
-    "Z-Dataview/Simple-TODO.md",
-    "Z-Excalidraw/Drawing-2024-06-11-22.59.48.excalidraw.md",
+    "Z-Template/日记模板.md",
     "README.md",
-    "CS-test",
-    "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240605.md",
-    "CS-数据库/硕士毕业设计-语义化缓存/进度和问题-20240520.md",
-    "CS-Linux/实操/ACME/Linux-ACME备忘录.md",
-    "CS-数据库/硕士毕业设计-语义化缓存",
-    "Z-Dairy/潮流周刊/Week-01-关于“潮流周刊”.md",
-    "Z-Excalidraw/Drawing-2024-05-28-20.55.24.excalidraw.md",
-    "CS-Linux/实操/实验室/Linux-Shell审计的简单搭建.md",
-    "Z-Dairy/潮流周刊",
-    "CS-Linux/实操/实验室/Linux-服务器重装备忘录.md",
-    "CS-Linux/实操/实验室/Disk.md",
-    "CS-折腾/Linux-Tmux操作备忘录.md",
-    "CS-Linux/工具/Linux-Tmux操作补充.md",
-    "Life-Misc/TTS-文本.md",
-    "CS-Linux/网络/Linux-nmap工具.md",
-    "CS-算法/栈和队列/单调栈/单调栈本身作为答案/Other.单调栈解决字典序问题.TODO.md",
-    "CS-算法/位运算/Other.从集合的角度看位运算.md",
-    "CS-算法/位运算/通过异或排除出集合/LC2401.最长优雅子数组.md",
-    "CS-算法/位运算/位运算题单.md",
-    "CS-算法/位运算/通过异或排除出集合",
-    "CS-算法/排序/Other.基数排序、计数排序和桶排序.md",
-    "Z-Excalidraw/Drawing-2024-05-17-11.45.51.excalidraw.md",
-    "Life-Misc/整合/BTC.encrypted",
-    "Life-Misc/整合/服务器资源整合.encrypted",
-    "CS-后端/LLM开发",
+    "Z-Dataview/TODO-Files.md",
+    "Z-Dataview/Todo.md",
+    "Z-Assets/Pasted image 20250624122221.png",
+    "A-Test/A-Test-Overview.md",
+    "A-Test/测试02/Test-02.md",
+    "A-Test/测试02",
+    "CS-计算机网络/CS-计算机网络-overview.md",
+    "CS-计算机网络/传输层/TCP/握手系列/计算机网络-TCP的前两次握手为何不能携带数据.md",
+    "CS-计算机网络/传输层/TCP/握手系列/计算机网络-不合时宜的SYN.TODO.md",
+    "CS-找实习找工作/资源整合.md",
+    "CS-找实习找工作/他人面经/腾讯面经/后端-数据库分区分表.md",
+    "CS-找实习找工作/未命名.md",
+    "CS-算法/栈和队列/单调栈/Other.单调栈的总结.md",
+    "CS-算法/栈和队列/单调栈/下一个更大数字/LC496.下一个更大元素I.md",
+    "CS-DB/源码系列/数据库-MySQL 源码编译.md",
+    "Life-Books/canvas-books-prompt.md",
+    "Z-Clippings/Clippings-How do I foldcollapsehide sections of code in Visual Studio Code?.md",
+    "CS-基础/CS-基础-Overview.md",
+    "CS-C++/00-basic/basic-C++/CS-Cpp-C++基础.md",
+    "CS-Linux/bash编程/Linux-调试bash.md",
+    "CS-基础/Misc/Misc-计算机书单.md",
+    "CS-基础/CS-BUG整理/BUG收录-关于服务器监控脚本的问题.md",
+    "Life-投资/常识和策略/Life-投资-2025三月份美股关税股灾复盘.md",
+    "CS-折腾/AI",
+    "Life-Books/weread-note/控糖革命/控糖革命.canvas",
+    "temp.md.zip",
+    "Life-投资/常识和策略",
+    "Life-投资/股票",
+    "Life-投资/债券",
+    "Z-Template/demo-canvas.canvas",
+    "Life-Books/canvas/控糖革命.canvas",
+    "Life-Books/canvas",
+    "Life-Books/weread-note/控糖革命/控糖革命内容精要.canvas",
+    "CS-折腾/VscodeVim",
+    "CS-C++/00-basic/basic-C++",
+    "CS-C++/00-basic/from-C",
+    "未命名.canvas",
+    "Z-Assets/Pasted image 20240718145440.png",
+    "Z-Assets/Pasted image 20241114150922.png",
+    "Z-Assets/Pasted image 20241112165110.png",
+    "Z-Assets/Pasted image 20241114153342.png",
+    "Z-Assets/Pasted image 20241114150836.png",
+    "Z-Assets/Pasted image 20240716105723.png",
+    "Pasted image 20240716004624.png",
     "Pasted image 20240309181817.png",
     "Pasted image 20240309181802.png",
-    "Pasted image 20240309181719.png",
     "Untitled.canvas"
   ]
 }
