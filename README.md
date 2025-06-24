@@ -46,11 +46,12 @@ title: README
 
 - 需要修改 `author` 字段的名称。
 
-![[Pasted image 20250624122221.png]]
+![Pasted image 20250624122221.png](Z-Assets/image-20250624122221.png)
 
 ### 1.3 `weread` 插件配置
 
 - 需要添加用户自己的 `cookie`，按照 weread 插件文档操作即可。
+- link: https://github.com/zhaohongxuan/obsidian-weread-plugin
 
 ### 1.4 建议补充的插件
 
@@ -70,7 +71,6 @@ title: README
 ### 2.2 各个目录下的 `overview` 文件
 
 - 扁平化项目内部的文件树，将其变成一个一维列表，快速查看目录下所有文件名称。
-
 
 ## 3. 式样相关
 
